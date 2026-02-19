@@ -3,8 +3,9 @@ name: experiments-in-living-defense
 description: Apply Mill's argument that human flourishing requires the freedom for diverse "experiments in living"—defending non-conformity, unconventional lifestyles, and minority ways of life as essential to ...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3958
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - experiments-in-living-defense
 - writing
