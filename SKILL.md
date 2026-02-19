@@ -4,7 +4,7 @@ description: Apply Mill's argument that human flourishing requires the freedom f
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3958
+  version: 1.0.3959
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - experiments-in-living-defense
